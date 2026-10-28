@@ -1590,7 +1590,7 @@ local DiamondUI = (function()
             -- ĐÃ XÓA DÒNG ÉP MÀU VÀNG ĐỂ ẢNH HIỂN THỊ ĐÚNG MÀU GỐC
             local dia = new("ImageLabel", {
                 AnchorPoint = Vector2.new(0.5, 0.5), Position = UDim2.fromScale(0.5, 0.5), Size = UDim2.fromOffset(26, 26),
-                BackgroundTransparency = 1, Image = "rbxassetid://97754353538411", ScaleType = Enum.ScaleType.Fit
+                BackgroundTransparency = 1, Image = "rbxthumb://type=Asset&id=109784820389254&w=420&h=420", ScaleType = Enum.ScaleType.Fit
             }, tb)
 
             tb.InputBegan:Connect(function(input)
