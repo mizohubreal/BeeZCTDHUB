@@ -1452,7 +1452,7 @@ local DiamondUI = (function()
         -- ĐÃ XÓA DÒNG ÉP MÀU VÀNG ĐỂ ẢNH HIỂN THỊ ĐÚNG MÀU GỐC
         local logo = new("ImageLabel", {
             Position = UDim2.fromOffset(17, 15), Size = UDim2.fromOffset(18, 18),
-            BackgroundTransparency = 1, Image = "rbxassetid://127615967713533", ScaleType = Enum.ScaleType.Fit
+            BackgroundTransparency = 1, Image = "rbxthumb://type=Asset&id=127615967713533&w=420&h=420", ScaleType = Enum.ScaleType.Fit
         }, top)
 
         local tl = new("TextLabel", {
