@@ -2927,11 +2927,11 @@ function WH.embed(won, info)
         inline = false,
     }
     return {
-        username = "Diamond Hub",
+        username = "BeeZ Hub",
         allowed_mentions = {parse = {}},
         embeds = {{
             title = title, color = color, fields = fields,
-            footer = {text = "Diamond Hub | " .. lp.Name},
+            footer = {text = "BeeZ Hub | " .. lp.Name},
             timestamp = os.date("!%Y-%m-%dT%H:%M:%SZ"),
         }},
     }
