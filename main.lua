@@ -5271,5 +5271,5 @@ else
     if tgAutoExec then tgAutoExec:Set(false, true) end
 end
 UI:Notify({
-    Title = "Diamond Hub", Content = "Ready. RightShift or the diamond button hides the menu.", Duration = 4, Type = "Success",
+    Title = "BeeZ Hub", Content = "Ready. RightShift or the diamond button hides the menu.", Duration = 4, Type = "Success",
 })
