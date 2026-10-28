@@ -3996,7 +3996,7 @@ do
     UI.Tr = function(s) return I18N.tr(s) end
 end
 Win = UI:CreateWindow({
-    Title = "Diamond Hub", Subtitle = "Cameraman TD", Theme = "Dark",
+    Title = "BeeZ Hub", Subtitle = "Cameraman TD", Theme = "Dark",
     Size = Vector2.new(540, 310), ConfigFolder = "CameramanTD", ToggleKey = Enum.KeyCode.RightShift,
 })
 do
